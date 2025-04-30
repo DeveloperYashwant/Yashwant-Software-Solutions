@@ -1,0 +1,9 @@
+const questions = [
+    { question: "What does HTML stand for?",
+      options: ["Hyper Text Markup Language","Home Tool Markup Language","Hyperlinks and Text Markup Language","None"],
+      answer: 0 },
+    { question: "Which language is used for styling?",
+      options: ["HTML","JQuery","CSS","XML"], answer: 2 },
+    { question: "Which is not a JavaScript Framework?",
+      options: ["Python Script","JQuery","Django","NodeJS"], answer: 2 }
+  ];
